@@ -1,0 +1,15 @@
+ipykernel
+pydantic
+langchain
+langgraph
+langchain-community
+langchain-core
+python-dotenv
+langchain-openai
+langchain-groq
+arxiv
+wikipedia
+langgraph-cli[inmem]
+faiss-cpu
+tavily-python
+streamlit
