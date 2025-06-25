@@ -1,0 +1,28 @@
+# Daily AI News Summary
+
+### 25-06-2025
+- Microsoft offers free Windows 10 security updates, but only for consumers [https://www.csoonline.com/article/4012446/sap-gui-flaws-expose-sensitive-data-via-weak-or-no-encryption.html](https://www.csoonline.com/article/4012446/sap-gui-flaws-expose-sensitive-data-via-weak-or-no-encryption.html)
+- SAP GUI flaws expose sensitive data via weak or no encryption [https://www.csoonline.com/article/4012446/sap-gui-flaws-expose-sensitive-data-via-weak-or-no-encryption.html](https://www.csoonline.com/article/4012446/sap-gui-flaws-expose-sensitive-data-via-weak-or-no-encryption.html)
+- AI Impact Awards 2025: The Changing Human Role in Science and Engineering [https://www.newsweek.com/nw-ai/ai-impact-awards-2025-science-engineering-2084754](https://www.newsweek.com/nw-ai/ai-impact-awards-2025-science-engineering-2084754)
+- World Economic Forum features 10 Indian startups as Tech Pioneers; spacetech wins big [https://startupnews.fyi/2025/06/24/learn-what-makes-a-pitch-land-at-disrupt-2025/](https://startupnews.fyi/2025/06/24/learn-what-makes-a-pitch-land-at-disrupt-2025/)
+- Ocutrx Technologies Inc. Unveils Surgery Breakthrough: First-Ever Technology to Make Blood Translucent During Surgery [https://www.biospace.com/press-releases/ocutrx-technologies-inc-unveils-surgery-breakthrough-first-ever-technology-to-make-blood-translucent-during-surgery](https://www.biospace.com/press-releases/ocutrx-technologies-inc-unveils-surgery-breakthrough-first-ever-technology-to-make-blood-translucent-during-surgery)
+- Fine jewellery brand GIVA raises Rs 530 Cr in Series C funding led by Creaegis [https://yourstory.com/2025/06/digital-labour-chowk-startup-profile](https://yourstory.com/2025/06/digital-labour-chowk-startup-profile)
+- SuperDial raises $15 million to automate healthcare’s ‘endless’ administrative phone calls [https://roboticsandautomationnews.com/2025/06/25/superdial-raises-15-million-to-automate-healthcares-endless-administrative-phone-calls/92551/](https://roboticsandautomationnews.com/2025/06/25/superdial-raises-15-million-to-automate-healthcares-endless-administrative-phone-calls/92551/)
+- OpenAI says China's Zhipu AI gaining ground amid Beijing's global AI push [https://www.kitco.com/news/off-the-wire/2025-06-25/openai-says-chinas-zhipu-ai-gaining-ground-amid-beijings-global-ai](https://www.kitco.com/news/off-the-wire/2025-06-25/openai-says-chinas-zhipu-ai-gaining-ground-amid-beijings-global-ai)
+
+### 24-06-2025
+- Judge finds AI companies can use some copyrighted works to fuel their sludge [https://gizmodo.com/judge-finds-ai-companies-can-use-some-copyrighted-works-to-fuel-their-sludge-2000619677](https://gizmodo.com/judge-finds-ai-companies-can-use-some-copyrighted-works-to-fuel-their-sludge-2000619677)
+- New ‘Echo Chamber’ attack can trick GPT, Gemini into breaking safety rules [https://www.csoonline.com/article/4012446/sap-gui-flaws-expose-sensitive-data-via-weak-or-no-encryption.html](https://www.csoonline.com/article/4012446/sap-gui-flaws-expose-sensitive-data-via-weak-or-no-encryption.html)
+- Turning evasion into detection: Varonis Jitter-Trap redefines beacon defense [https://www.csoonline.com/article/4012446/sap-gui-flaws-expose-sensitive-data-via-weak-or-no-encryption.html](https://www.csoonline.com/article/4012446/sap-gui-flaws-expose-sensitive-data-via-weak-or-no-encryption.html)
+- SAP GUI flaws expose sensitive data via weak or no encryption [https://www.csoonline.com/article/4012446/sap-gui-flaws-expose-sensitive-data-via-weak-or-no-encryption.html](https://www.csoonline.com/article/4012446/sap-gui-flaws-expose-sensitive-data-via-weak-or-no-encryption.html)
+- AI Impact Summit 2025: Watch Attendees Debate and Explore Demos on Day Two [https://www.newsweek.com/ai-impact-summit-2025-watch-attendees-debate-explore-demos-day-two-2090191](https://www.newsweek.com/ai-impact-summit-2025-watch-attendees-debate-explore-demos-day-two-2090191)
+- Chronicled Bets $12 Million on AI Spotting a Billion-Dollar Franchise [https://www.forbes.com/sites/charliefink/2025/06/24/chronicle-bets-12-million-on-ai-spotting-a-billion-dollar-franchise/](https://www.forbes.com/sites/charliefink/2025/06/24/chronicle-bets-12-million-on-ai-spotting-a-billion-dollar-franchise/)
+- AI-generated pro-Iran propaganda is flooding TikTok, Instagram, and YouTube [https://www.forbes.com/sites/emilybaker-white/2025/06/24/ai-generated-pro-iran-propaganda-is-flooding-tiktok-instagram-and-youtube/](https://www.forbes.com/sites/emilybaker-white/2025/06/24/ai-generated-pro-iran-propaganda-is-flooding-tiktok-instagram-and-youtube/)
+
+### 23-06-2025
+- Turning evasion into detection: Varonis Jitter-Trap redefines beacon defense [https://www.csoonline.com/article/4012446/sap-gui-flaws-expose-sensitive-data-via-weak-or-no-encryption.html](https://www.csoonline.com/article/4012446/sap-gui-flaws-expose-sensitive-data-via-weak-or-no-encryption.html)
+- SAP GUI flaws expose sensitive data via weak or no encryption [https://www.csoonline.com/article/4012446/sap-gui-flaws-expose-sensitive-data-via-weak-or-no-encryption.html](https://www.csoonline.com/article/4012446/sap-gui-flaws-expose-sensitive-data-via-weak-or-no-encryption.html)
+
+### 20-06-2025
+- Indian companies rush to cash in on rare earth magnet supply gap as China tightens control [https://yourstory.com/2025/06/digital-labour-chowk-startup-profile](https://yourstory.com/2025/06/digital-labour-chowk-startup-profile)
+- Designing for impact: How Atlassian is shaping the future of team collaboration [https://yourstory.com/2025/06/digital-labour-chowk-startup-profile](https://yourstory.com/2025/06/digital-labour-chowk-startup-profile)
